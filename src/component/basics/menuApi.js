@@ -81,6 +81,15 @@ const Menu = [
       description:
         "club luzztro is the best in warsaw check out our page  ",
     },
+     {
+      id: 10,
+      image: "../images/luzztro.jpg",
+      name: "barararara",
+      category: "Club",
+      price: "10₹",
+      description:
+        "club luzztro is the best in warsaw check out our page  ",
+    },
   ];
   
   export default Menu;
